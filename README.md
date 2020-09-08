@@ -1,18 +1,27 @@
 # FindElement
 
 Local Extension Installation Guide:
+
 1- Download and save the Chrome Extension LAST VERSION file.
+
 2- Go to chrome: // extensions / and to use the first extension, you must upload it to your extensions.
+
 3- At the top left of the screen, press the load unpacked button and select your Chrome Extension file folder from the window that opens.
+
 4- In the Google Chrome popup menu, use the Extensions tab to pin the Get element program.
+
 5- Open the desired website and click on Extension Get element.
-6- A blue tab opens on the left side of the screen
-7- By clicking on different elements of the page, the CSS and XPath path of that element can be seen
+
+6- A blue tab opens on the left side of the screen.
+
+7- By clicking on different elements of the page, the CSS and XPath path of that element can be seen.
+
 8- Finally, by clicking on the Export JSON option, it will give you a file with the JSON extension.
 
-Test guide:
-You can test the output.
+Test guide: You can test the output.
+
 1- Open the JSON file.
+
 2- You will see all the elements you select as an array of objects.
 
 See an element of the Golem site here:
