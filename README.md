@@ -12,8 +12,8 @@ Local Extension Installation Guide:
 
 Test guide:
 You can test the output.
-1. Open the JSON file.
-2. You will see all the elements you select as an array of objects.
+1- Open the JSON file.
+2- You will see all the elements you select as an array of objects.
 
 See an element of the Golem site here:
  {
@@ -34,6 +34,7 @@ Press the F12 key and in the console section, enter the following command to tes
  document.querySelector ("HTML.js BODY.index.golem-flip-std-body DIV.golem-flip-std DIV # grandwrapper.golem-zo-grandwrapper.iq-site-wrapper HEADER # header.iq-site-header DIV.dh1 A IMG ")
 
 4- Please change the value inside the quotation according to the updated JSON output file to see the new routes.
+
 5- Use the following command to test XPath.
 
 $ x ("// * [@ alt = 'Golem.de - IT-News für Profis']")
