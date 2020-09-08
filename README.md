@@ -1,5 +1,4 @@
 # FindElement
-Webtesting
 
 Local Extension Installation Guide:
 1. Download and save the Chrome Extension LAST VERSION file.
