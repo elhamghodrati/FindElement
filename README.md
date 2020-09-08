@@ -4,7 +4,7 @@ Local Extension Installation Guide:
 
 1- Download and save the Chrome Extension LAST VERSION file.
 
-2- Go to chrome: // extensions / and to use the first extension, you must upload it to your extensions.
+2- Go to chrome://extensions/ and to use the first extension, you must upload it to your extensions.
 
 3- At the top left of the screen, press the load unpacked button and select your Chrome Extension file folder from the window that opens.
 
