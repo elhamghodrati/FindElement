@@ -48,4 +48,4 @@ Press the F12 key and in the console section, enter the following command to tes
 
 $ x ("// * [@ alt = 'Golem.de - IT-News für Profis']")
 
-6- Please pay attention to single quotation and double quotation
+6- Please pay attention to single quotation and double quotation.
